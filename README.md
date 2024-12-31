@@ -34,7 +34,7 @@
 ---
 
 <div align="center">
-    <a href="CONTRIBUTING.md">Contributing Guide</a> •
+    <a href="CONTRIBUTING.md">Contributions</a> •
     <a href="LICENSE">License</a> •
     <a href="https://thataicollection.com/en/blog?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection">Blog</a>
 </div>
